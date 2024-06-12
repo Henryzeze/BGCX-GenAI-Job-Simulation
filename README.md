@@ -43,3 +43,11 @@ Next, I performed basic analysis to identify significant financial trends and in
 Finally, I compiled a comprehensive data analysis report. This report included my findings and a summary that provided insights into the financial health of the analyzed companies. This initial task set the foundation for our AI model and was instrumental in moving the project forward. My attention to detail and analytical skills were key in this phase.
 
 [Task One Analysis Report on Jupyter Notebook](https://github.com/Henryzeze/BGCX-GenAI-Job-Simulation/blob/main/Analysis_Report.pdf)
+
+## Task Two
+
+As part of BCG's tech hub, my data extraction and analysis achievements led to a new challenge: Creating an AI chatbot that transforms complex financial data into actionable insights, aiming to revolutionize how our client navigates financial decisions by making intricate data accessible and understandable.
+
+My primary focus was on implementing rule-based logic, a foundational aspect ensuring the chatbot could respond accurately to predefined financial queries. This task was essential for giving the chatbot its initial "understanding" of user inquiries and its ability to provide immediate, reliable information.
+
+In developing the rule-based logic, I laid the groundwork for the chatbot's functionality, enabling further developments in AI, machine learning, and user interaction. Throughout this process, I emphasized collaboration and communication with my team, understanding that my work on rule-based logic was a critical piece of a much larger puzzle. This collaborative effort moved us closer to revolutionizing financial analysis for our client.
