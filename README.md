@@ -42,4 +42,4 @@ Next, I performed basic analysis to identify significant financial trends and in
 
 Finally, I compiled a comprehensive data analysis report. This report included my findings and a summary that provided insights into the financial health of the analyzed companies. This initial task set the foundation for our AI model and was instrumental in moving the project forward. My attention to detail and analytical skills were key in this phase.
 
-[Link Text](URL)
+[Task One Analysis Report on Jupyter Notebook](https://github.com/Henryzeze/BGCX-GenAI-Job-Simulation/blob/main/Analysis_Report.pdf)
