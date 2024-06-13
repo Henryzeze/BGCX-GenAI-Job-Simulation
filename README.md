@@ -56,6 +56,8 @@ In developing the rule-based logic, I laid the groundwork for the chatbot's func
 
 [Task Two AI Chatbot rule-based logic on Jupyter Notebook](https://github.com/Henryzeze/BGCX-GenAI-Job-Simulation/blob/main/K10_filings%20final.xlsx)
 
+[Task Two AI Chatbot rule-based logic Documentation (How it works)](https://github.com/Henryzeze/BGCX-GenAI-Job-Simulation/blob/main/Chatbot%20Documentation.pdf)
+
 ## Certification
 
 ![](completion_certificate.jpg)
