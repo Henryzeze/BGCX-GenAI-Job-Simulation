@@ -51,3 +51,11 @@ As part of BCG's tech hub, my data extraction and analysis achievements led to a
 My primary focus was on implementing rule-based logic, a foundational aspect ensuring the chatbot could respond accurately to predefined financial queries. This task was essential for giving the chatbot its initial "understanding" of user inquiries and its ability to provide immediate, reliable information.
 
 In developing the rule-based logic, I laid the groundwork for the chatbot's functionality, enabling further developments in AI, machine learning, and user interaction. Throughout this process, I emphasized collaboration and communication with my team, understanding that my work on rule-based logic was a critical piece of a much larger puzzle. This collaborative effort moved us closer to revolutionizing financial analysis for our client.
+
+[Task Two Analyzed K10 financial data used for the AI Chatbot rule-based logic](https://github.com/Henryzeze/BGCX-GenAI-Job-Simulation/blob/main/K10_filings%20final.xlsx)
+
+[Task Two AI Chatbot rule-based logic on Jupyter Notebook](https://github.com/Henryzeze/BGCX-GenAI-Job-Simulation/blob/main/K10_filings%20final.xlsx)
+
+## Certification
+
+![](completion_certificate.jpg)
